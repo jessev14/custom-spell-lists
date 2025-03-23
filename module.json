@@ -21,22 +21,10 @@
                     "verified": "4"
                 }
             }
-        ],
-        "requires": [
-            {
-                "id": "lib-wrapper",
-                "type": "module",
-                "compatibility": {
-                    "minimum": "1",
-                    "verified": "1.12.7.1"
-                }
-            }
         ]
     },
     "esmodules": [
         "./scripts/custom-spell-lists.js"
     ],
-    "styles": [
-        "./styles/custom-spell-lists.css"
-    ]
+    "styles": []
 }
