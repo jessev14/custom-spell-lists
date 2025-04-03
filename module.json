@@ -26,5 +26,8 @@
     "esmodules": [
         "./scripts/custom-spell-lists.js"
     ],
-    "styles": []
+    "styles": [],
+    "url": "",
+    "manifest": "",
+    "download": ""
 }
